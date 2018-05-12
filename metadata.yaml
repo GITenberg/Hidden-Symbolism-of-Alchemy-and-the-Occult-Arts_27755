@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '32889'
     url: http://www.gutenberg.org/2009/agents/32889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27755#Hidden-Symbolism-of-Alchemy-and-the-Occult-Arts
 gutenberg_issued: '2009-01-09'
 gutenberg_type: Text
 identifiers:

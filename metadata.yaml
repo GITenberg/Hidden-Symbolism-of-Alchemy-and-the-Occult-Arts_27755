@@ -1,0 +1,38 @@
+_repo: Hidden-Symbolism-of-Alchemy-and-the-Occult-Arts_27755
+_version: 0.1.0
+alternative_title: Probleme der Mystik und ihrer Symbolik. English
+contributor:
+  translator:
+    agent_name: Jelliffe, Smith Ely
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '32894'
+    url: http://www.gutenberg.org/2009/agents/32894
+    wikipedia: http://en.wikipedia.org/wiki/Smith_Ely_Jelliffe
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Silberer, Herbert
+    birthdate: 1882
+    deathdate: 1922
+    gutenberg_agent_id: '32889'
+    url: http://www.gutenberg.org/2009/agents/32889
+description: ''
+gutenberg_issued: '2009-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27755'
+  lccn: '74176356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Symbolism (Psychology)'
+- !lcsh 'Society of Rosicrucians'
+- !lcsh 'Alchemy'
+- !lcc 'BF'
+title: Hidden Symbolism of Alchemy and the Occult Arts
+url: http://www.gutenberg.org/ebooks/27755
